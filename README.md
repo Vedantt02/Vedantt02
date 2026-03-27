@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedantt02" alt="vedantt02" /></a> </p>
 
-- 📫 How to reach me **vedantsinghparihar020605@gmail.com**
+- 📫 How to reach me **vedantparihar02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
