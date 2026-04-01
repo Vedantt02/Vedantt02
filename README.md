@@ -67,11 +67,8 @@
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedantt02&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=vedantt02&theme=tokyonight&hide_border=true" height="160"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantt02&show_icons=true&locale=en&layout=compact" alt="vedantt02" /></p>
 </p>
 
 <p align="center">
