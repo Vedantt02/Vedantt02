@@ -68,10 +68,6 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantt02&show_icons=true&locale=en&layout=compact" alt="vedantt02" /></p>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantt02&layout=compact&theme=tokyonight&hide=jupyter%20notebook&hide_border=true&cache_seconds=1800" height="160"/>
 </p>
 
