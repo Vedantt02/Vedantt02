@@ -73,6 +73,10 @@
 </p>
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantt02&layout=compact&theme=tokyonight&langs_count=8&hide=jupyter%20notebook&hide_border=true" />
+</p>
+
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantt02&layout=compact&theme=tokyonight" />
 </p>
 
