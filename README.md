@@ -68,16 +68,16 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vedantt02&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantt02&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vedantt02&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantt02&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantt02&layout=compact&theme=tokyonight&langs_count=8&hide=jupyter%20notebook&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantt02&layout=compact&theme=tokyonight&hide=jupyter%20notebook&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantt02&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantt02&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
