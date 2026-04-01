@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vedant Singh Parihar</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+👋,+I'm+Vedant;CSE+Student;Backend+%7C+Python+%7C+Java;Building+Real+World+Projects" />
+</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantt02&label=Profile%20views&color=0e75b6&style=flat" alt="vedantt02" /> </p>
