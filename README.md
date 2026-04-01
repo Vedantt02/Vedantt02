@@ -67,22 +67,11 @@
 
 ## 📊 GitHub Analytics
 
-<p>
-  <img align="left" 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantt02&layout=compact&theme=tokyonight&hide_border=true" 
-       alt="" />
-</p>
+## 📊 GitHub Analytics
 
-<p>
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=vedantt02&show_icons=true&theme=tokyonight&hide_border=true" 
-       alt="" />
-</p>
-
-<p>
-  <img align="center" 
-       src="https://streak-stats.demolab.com?user=vedantt02&theme=tokyonight&hide_border=true" 
-       alt="" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantt02&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=vedantt02&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
