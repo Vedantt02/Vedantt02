@@ -73,6 +73,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantt02&" alt="vedantt02" /></p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantt02&theme=react-dark&hide_border=true"/>
+</p>
+
 ---
 
 ## ⚡ Fun Line
