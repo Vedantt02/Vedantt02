@@ -39,7 +39,11 @@
 ### 💻 Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,mysql,opencv,pytorch,tensorflow,sklearn,fastAPI" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,mysql,opencv,pytorch,tensorflow,sklearn" />
+</p>
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" alt="fastapi"/>
 </p>
 
 ---
