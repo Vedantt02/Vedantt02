@@ -46,7 +46,7 @@
 
 ## 📊 GitHub Analytics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantt02&show_icons=true&locale=en&layout=compact"&theme=tokyonight alt="vedantt02" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantt02&show_icons=true&locale=en&layout=compact" alt="vedantt02" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedantt02&show_icons=true&locale=en" alt="vedantt02" /></p>
 
