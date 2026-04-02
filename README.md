@@ -16,27 +16,6 @@
 
 ---
 
-## 🚀 Featured Project
-
-### 📰 Fake News Detection
-- 🧠 NLP-based system to classify news as fake or real  
-- ⚙️ TF-IDF + Machine Learning models for text classification  
-- 🚀 FastAPI-powered backend for scalable API deployment  
-- 🔌 Exposed REST endpoints for real-time predictions  
-- 📊 Optimized for accuracy, performance & production readiness  
-- 🔗 Project Repo: https://github.com/vedantt02/fake-news-detection   
-
----
-
-## 🏆 Competitive Coding
-
-| Platform | Profile |
-|--------|--------|
-| LeetCode | https://leetcode.com/u/Vedantt02/ |
-| CodeChef | https://www.codechef.com/users/vedant_singh02 |
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -76,6 +55,27 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantt02&theme=react-dark&hide_border=true"/>
 </p>
+
+---
+
+## 🚀 Featured Project
+
+### 📰 Fake News Detection
+- 🧠 NLP-based system to classify news as fake or real  
+- ⚙️ TF-IDF + Machine Learning models for text classification  
+- 🚀 FastAPI-powered backend for scalable API deployment  
+- 🔌 Exposed REST endpoints for real-time predictions  
+- 📊 Optimized for accuracy, performance & production readiness  
+- 🔗 Project Repo: https://github.com/vedantt02/fake-news-detection   
+
+---
+
+## 🏆 Competitive Coding
+
+| Platform | Profile |
+|--------|--------|
+| LeetCode | https://leetcode.com/u/Vedantt02/ |
+| CodeChef | https://www.codechef.com/users/vedant_singh02 |
 
 ---
 
