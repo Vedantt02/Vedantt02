@@ -77,12 +77,6 @@
 | LeetCode | https://leetcode.com/u/Vedantt02/ |
 | CodeChef | https://www.codechef.com/users/vedant_singh02 |
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantt02&show_icons=true&locale=en&layout=compact" alt="vedantt02" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedantt02&show_icons=true&locale=en" alt="vedantt02" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantt02&" alt="vedantt02" /></p>
 ---
 
 ## ⚡ Fun Line
