@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+👋,+I'm+Vedant;CSE+Student+%7C+Backend+Developer;Python+%7C+Java+%7C+ML;Building+Real+World+Projects+🚀" />
 </h1>
 
-<h3 align="center">Turning ideas into real-world applications 💡</h3>
+<h3 align="center">Code. Build. Solve. Repeat. 🔁</h3>
 
 ---
 
@@ -81,4 +81,4 @@
 
 ## ⚡ Fun Line
 
-> ⭐ Building the future, one commit at a time 🚀
+> 🚀 Learning fast, building faster.
