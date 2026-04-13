@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+👋,+I'm+Vedant;CSE+Student+%7C+Backend+Engineer;Python+%7C+Java+%7C+ML+%7C+DL+%7C+Generative+AI;Building+Scalable+Systems+%26+Intelligent+Models;Engineering+AI+that+Solves+Real+Problems+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+👋,+I'm+Vedant;CSE+Student+%7C+Backend+Engineer;Python+%7C+Java;ML+%7C+DL+%7C+Generative+AI;Scalable+ML+Systems+⚙️;Training+%26+Deploying+ML+Models+⚙️" />
 </h1>
 
 <h3 align="center">Code. Build. Solve. Repeat. 🔁</h3>
