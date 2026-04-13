@@ -11,7 +11,6 @@
 - 🎓 CSE Student passionate about **Backend Development & AI**
 - 🧠 Currently learning **DSA & System Design**
 - ⚙️ Building **real-world ML & Web projects**
-- 🤝 Open to **collaboration & opportunities**
 - 📫 Reach me at: **vedantparihar02@gmail.com**
 
 ---
